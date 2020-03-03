@@ -1,2 +1,3 @@
 #Para ignorar los ficheros de copia de Word.
 *.wbk
+*.docx
